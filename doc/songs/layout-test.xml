@@ -1,0 +1,124 @@
+<song>
+   <measures>
+      <measure>
+         <chords/>
+         <staves>
+            <staff octaveShift="0" systemNumber="1">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <lyrics>
+            <lyric text="takt1" lineNumber="0" relativePosition="0.3897849462365591" staffNumber="0"/>
+         </lyrics>
+         <notes/>
+         <attribute>FIRST_IN_LINE</attribute>
+      </measure>
+      <measure>
+         <chords/>
+         <staves>
+            <staff octaveShift="36" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <lyrics>
+            <lyric text="takt2" lineNumber="0" relativePosition="0.3172043010752688" staffNumber="0"/>
+         </lyrics>
+         <notes/>
+         <attribute>NO_ATTRIBUTE</attribute>
+      </measure>
+      <measure>
+         <chords/>
+         <staves>
+            <staff octaveShift="36" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <lyrics>
+            <lyric text="takt3" lineNumber="0" relativePosition="0.3387096774193548" staffNumber="0"/>
+         </lyrics>
+         <notes/>
+         <attribute>NO_ATTRIBUTE</attribute>
+      </measure>
+      <measure>
+         <chords/>
+         <staves>
+            <staff octaveShift="36" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <lyrics>
+            <lyric text="takt4" lineNumber="0" relativePosition="0.4720812182741117" staffNumber="0"/>
+         </lyrics>
+         <notes/>
+         <attribute>LAST_IN_LINE</attribute>
+      </measure>
+      <measure>
+         <chords/>
+         <staves>
+            <staff octaveShift="36" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <lyrics>
+            <lyric text="takt5" lineNumber="0" relativePosition="0.4435483870967742" staffNumber="0"/>
+         </lyrics>
+         <notes/>
+         <attribute>FIRST_IN_LINE</attribute>
+      </measure>
+      <measure>
+         <chords/>
+         <staves>
+            <staff octaveShift="36" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <lyrics>
+            <lyric text="takt6" lineNumber="0" relativePosition="0.4720812182741117" staffNumber="0"/>
+         </lyrics>
+         <notes/>
+         <attribute>NO_ATTRIBUTE</attribute>
+      </measure>
+      <measure>
+         <chords/>
+         <staves>
+            <staff octaveShift="36" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <lyrics>
+            <lyric text="takt7" lineNumber="0" relativePosition="0.29301075268817206" staffNumber="0"/>
+         </lyrics>
+         <notes/>
+         <attribute>LAST_IN_LINE</attribute>
+      </measure>
+   </measures>
+   <name>layout-test</name>
+</song>

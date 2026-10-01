@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TextView
+        android:id="@+id/textViewLabelTextBlockTitel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="Title: "
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <EditText
+        android:id="@+id/editTextBlockTitle"
+        android:inputType="textAutoCorrect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/textViewLabelTextBlockTitel"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@id/textViewLabelTextBlockTitel"
+        android:ems="10" >
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/textViewLabelTextBlockContent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/textViewLabelTextBlockTitel"
+        android:layout_marginTop="10dp"
+        android:text="Text: "
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <EditText
+        android:id="@+id/editTextBlockContent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editTextBlockTitle"
+        android:layout_toRightOf="@id/textViewLabelTextBlockContent"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:minLines="4" >
+
+    </EditText>
+
+    <View
+        android:id="@+id/horz_separator_line"
+        android:layout_marginTop="5dp"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/editTextBlockContent"
+        android:layout_marginBottom="0dp"
+        android:background="?android:attr/dividerHorizontal" />
+
+    <include layout="@layout/lay_dlg_two_button"
+        android:layout_below="@id/horz_separator_line"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+
+</RelativeLayout>

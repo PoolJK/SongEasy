@@ -1,0 +1,28 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "21.1.2"
+    defaultConfig {
+        applicationId "de.songeasy.android"
+        minSdkVersion 15
+        targetSdkVersion 22
+        versionCode 404
+        versionName '1.5'
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            //proguardFile 'D:/Dateien/AndroidStudioProjects/SongEasy/app/proguard-rules.pro'
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:support-v13:22.2.1'
+    compile 'com.anjlab.android.iab.v3:library:1.0.+'
+}

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:stretchColumns="0,1,2,4,5">
+
+    <TableRow
+        android:id="@+id/tableRow1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:baselineAligned="false"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:id="@+id/textViewRoot"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="0"
+            android:gravity="center"
+            android:text="@string/label_picker_chord_root" />
+
+        <TextView
+            android:id="@+id/textViewRootAccidental"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:gravity="center"
+            android:text="@string/label_picker_chord_accidental" />
+
+        <TextView
+            android:id="@+id/textViewKind"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="2"
+            android:gravity="center"
+            android:text="@string/label_picker_chord_kind" />
+
+        <TextView
+            android:id="@+id/textViewBass"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="4"
+            android:gravity="center"
+            android:text="@string/label_picker_chord_bass" />
+
+        <TextView
+            android:id="@+id/textViewBassAccidental"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="5"
+            android:gravity="center"
+            android:text="@string/label_picker_chord_accidental" />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <NumberPicker
+            android:id="@+id/pickerChordRoot"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="0" />
+
+        <NumberPicker
+            android:id="@+id/pickerChordRootAccidental"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1" />
+
+        <NumberPicker
+            android:id="@+id/pickerChordKind"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="2" />
+
+        <View
+            android:layout_width="2dp"
+            android:layout_height="fill_parent"
+            android:layout_column="3"
+            android:layout_gravity="center_horizontal"
+            android:background="?android:attr/dividerVertical" />
+
+        <NumberPicker
+            android:id="@+id/pickerChordBass"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="4"
+            android:layout_marginLeft="5dp"
+            android:showDividers="beginning" />
+
+        <NumberPicker
+            android:id="@+id/pickerChordBassAccidental"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="5" />
+    </TableRow>
+
+    <View
+        android:layout_marginTop="5dp"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:layout_marginBottom="0dp"
+        android:background="?android:attr/dividerHorizontal" />
+
+    <include layout="@layout/lay_dlg_two_button"/>
+
+</TableLayout>

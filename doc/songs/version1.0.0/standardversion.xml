@@ -1,0 +1,185 @@
+<song version="1.0.0">
+   <textBlocks/>
+   <measures>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="0" systemNumber="1">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CSHARPMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes>
+            <note length="QUARTER" isDotted="false" staffNumber="0" timePosition="46" accidental="NONE" tie="NONE" name="F" midiPitch="0" octave="4" voice="0"/>
+            <note length="QUARTER" isDotted="false" staffNumber="0" timePosition="77" accidental="NONE" tie="NONE" name="C" midiPitch="0" octave="5" voice="0"/>
+         </notes>
+         <rests/>
+         <attribute>
+            <measureAttribute>FIRST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="28" systemNumber="580">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CSHARPMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes>
+            <note length="QUARTER" isDotted="false" staffNumber="0" timePosition="34" accidental="NONE" tie="NONE" name="B" midiPitch="0" octave="4" voice="0"/>
+            <note length="EIGHTH" isDotted="false" staffNumber="0" timePosition="59" accidental="NONE" tie="NONE" name="F" midiPitch="0" octave="4" voice="0"/>
+         </notes>
+         <rests/>
+         <attribute/>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations>
+            <annotationElement class="de.songeasy.android.score.Label" text="label1" relativePosition="0.3442622950819672"/>
+         </annotations>
+         <directions/>
+         <staves>
+            <staff octaveShift="28" systemNumber="580">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CSHARPMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes>
+            <note length="EIGHTH" isDotted="false" staffNumber="0" timePosition="22" accidental="NONE" tie="NONE" name="C" midiPitch="0" octave="5" voice="0"/>
+            <note length="THIRTYSECOND" isDotted="false" staffNumber="0" timePosition="61" accidental="NONE" tie="NONE" name="D" midiPitch="0" octave="4" voice="0"/>
+         </notes>
+         <rests/>
+         <attribute/>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="28" systemNumber="580">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CSHARPMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes>
+            <note length="HALF" isDotted="false" staffNumber="0" timePosition="59" accidental="NONE" tie="NONE" name="B" midiPitch="0" octave="4" voice="0"/>
+         </notes>
+         <rests>
+            <rest length="SIXTEENTH" isDotted="false" staffNumber="0" timePosition="37"/>
+         </rests>
+         <attribute>
+            <measureAttribute>LAST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations>
+            <annotationElement class="de.songeasy.android.score.Lyric" text="lsruc2" relativePosition="0.663768115942029" lineNumber="0" staffNumber="0"/>
+         </annotations>
+         <directions>
+            <directionElement class="de.songeasy.android.score.Coda" relativePosition="0.4608695652173913"/>
+         </directions>
+         <staves>
+            <staff octaveShift="28" systemNumber="580">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CSHARPMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes>
+            <note length="THIRTYSECOND" isDotted="false" staffNumber="0" timePosition="63" accidental="NONE" tie="NONE" name="D" midiPitch="0" octave="5" voice="0"/>
+            <note length="EIGHTH" isDotted="false" staffNumber="0" timePosition="29" accidental="NONE" tie="NONE" name="D" midiPitch="0" octave="4" voice="0"/>
+            <note length="EIGHTH" isDotted="false" staffNumber="0" timePosition="88" accidental="NONE" tie="NONE" name="B" midiPitch="0" octave="4" voice="0"/>
+         </notes>
+         <rests>
+            <rest length="SIXTEENTH" isDotted="false" staffNumber="0" timePosition="21"/>
+         </rests>
+         <attribute>
+            <measureAttribute>FIRST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions>
+            <directionElement class="de.songeasy.android.score.Segno" relativePosition="0.26229508196721313"/>
+         </directions>
+         <staves>
+            <staff octaveShift="28" systemNumber="580">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CSHARPMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes>
+            <note length="THIRTYSECOND" isDotted="false" staffNumber="0" timePosition="29" accidental="NONE" tie="NONE" name="E" midiPitch="0" octave="3" voice="0"/>
+            <note length="THIRTYSECOND" isDotted="false" staffNumber="0" timePosition="14" accidental="NONE" tie="NONE" name="B" midiPitch="0" octave="4" voice="0"/>
+            <note length="EIGHTH" isDotted="false" staffNumber="0" timePosition="55" accidental="NONE" tie="NONE" name="C" midiPitch="0" octave="5" voice="0"/>
+            <note length="EIGHTH" isDotted="false" staffNumber="0" timePosition="89" accidental="NONE" tie="NONE" name="F" midiPitch="0" octave="4" voice="0"/>
+         </notes>
+         <rests/>
+         <attribute>
+            <measureAttribute>LAST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations>
+            <annotationElement class="de.songeasy.android.score.Lyric" text="lyrics" relativePosition="0.6115942028985507" lineNumber="0" staffNumber="0"/>
+         </annotations>
+         <directions>
+            <directionElement class="de.songeasy.android.score.Fine" relativePosition="0.7942028985507247"/>
+         </directions>
+         <staves>
+            <staff octaveShift="28" systemNumber="580">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CSHARPMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>FIRST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="28" systemNumber="580">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CSHARPMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>LAST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+   </measures>
+   <titleblock>
+      <composer>test</composer>
+      <name>standard version</name>
+   </titleblock>
+</song>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <!-- language specific strings -->
+    <!-- main activity -->
+    <string name="error_play_not_found">In-app Käufe nicht möglich. Bitte upgraden Sie Android Market/Play auf eine Version >= 3.9.16</string>
+    <string name="error_licences_not_found">Lizenzen konnten nicht geladen werden</string>
+    <string name="error_option_not_purchased">Option nicht verfügbar. Bitte erwerben im Unlock-Menü</string>
+    <!-- options menu -->
+    <string name="menu_settings">Einstellungen</string>
+    <string name="opt_menu_load_song">Song Laden</string>
+    <string name="opt_menu_save_song">Song Speichern</string>
+    <string name="opt_menu_save_quick">Song Speichern</string>
+    <string name="opt_menu_file">Datei</string>
+    <string name="opt_menu_settings">Einstellungen</string>
+    <string name="opt_menu_settings_app">App</string>
+    <string name="opt_menu_settings_song">Song</string>
+    <string name="opt_menu_new_song">Neuer Song</string>
+    <string name="opt_menu_mode_edit">Bearbeiten</string>
+    <string name="opt_menu_mode_play">Abspielen</string>
+    <string name="opt_menu_mode_view">Ansicht</string>
+    <string name="opt_menu_mode">Modus</string>
+    <string name="opt_menu_zoom_full">Voll</string>
+    <string name="opt_menu_export_image">Als Bild exportieren</string>
+    <string name="opt_menu_export_pdf">Als PDF exportieren</string>
+    <string name="opt_menu_social">Band</string>
+    <string name="opt_menu_help">Hilfe</string>
+    <string name="opt_menu_purchase">Optionen freischalten</string>
+    <string name="opt_menu_about">Über</string>
+    <string name="error_no_sd_card">Keine SD Karte!</string>
+    <string name="error_no_file_properties">Bitte alle Angaben machen!</string>
+    <string name="error_no_song_to_export">Nichts zu exportieren!</string>
+    <!-- preferences activity -->
+    <string name="pref_cat_general">Allgemein</string>
+    <string name="pref_title_location">Ort</string>
+    <string-array name="pref_storing_locations">
+        <item>SD-Karte</item>
+        <item>Intern</item>
+    </string-array>
+    <string name="pref_cat_storage">Laden/Speichern</string>
+    <string name="pref_sw_title_load_on_startup">Letzte Datei beim Starten laden</string>
+    <string name="pref_sw_sum_load_on_startup_off">Letzte Datei nicht beim Start laden</string>
+    <string name="pref_sw_sum_load_on_startup_on">Datei beim Starten laden</string>
+    <string name="pref_name_composer">Komponist</string>
+    <string name="pref_dlg_enter_composer">Name des Komponisten eingeben</string>
+    <string name="pref_title_refresh_date">Datum beim Speichern aktualisieren</string>
+    <string name="pref_sw_sum_refresh_date_off">Datum nicht beim Speichern aktualisieren</string>
+    <string name="pref_sw_sum_refresh_date_on">Datum beim Speichern aktualisieren</string>
+    <!--note edit dialog -->
+    <string name="title_edit_notes">Eigenschaften Note</string>
+    <string name="label_note_length">Länge</string>
+    <string name="rd_btn_note_dotted">Punktiert</string>
+    <string name="cb_note_beam_start">Balken start</string>
+    <string name="cb_note_beam_continue">Balken weiter</string>
+    <string name="cb_note_beam_stop">Balken stop</string>
+    <string name="cb_note_tie_start">Haltebogen Beginn</string>
+    <string name="label_spinner_note_accidental">Vorzeichen</string>
+    <string name="err_note_too_long">Balken nur für Noten kürzer als Viertel!</string>
+    <string-array name="spinner_accidentals">
+        <item>keins</item>
+        <item>Doppel-B</item>
+        <item>B</item>
+        <item>Auflösungsz.</item>
+        <item>Kreuz</item>
+        <item>Doppel-Kreuz</item>
+    </string-array>
+    <!-- rest edit dialog -->
+    <string name="title_edit_rests">Eigenschaften Pause</string>
+    <!-- chords edit dialog-->
+    <string name="title_add_chord">Akkord hinzufügen</string>
+    <string name="title_edit_chord">Akkord bearbeiten</string>
+    <string name="label_picker_chord_root">Basis</string>
+    <string name="label_picker_chord_accidental">Vorzeichen</string>
+    <string name="label_picker_chord_kind">Typ</string>
+    <string name="label_picker_chord_bass">Bass</string>
+    <!-- lyrics edit dialog-->
+    <string name="title_edit_lyrics">Text bearbeiten</string>
+    <string name="title_add_lyrics">Text eingeben</string>
+    <string name="label_lyric_text_size">Größe</string>
+    <string name="rd_btn_lyric_bold">Fett</string>
+    <string name="rd_btn_lyric_cursive">Kursiv</string>
+    <string name="cb_lyric_second_line">Zweite Zeile</string>
+    <!-- textblock edit dialog-->
+    <string name="title_edit_textblock">Textblock bearbeiten</string>
+    <string name="title_add_textblock">Textblock eingeben</string>
+    <!-- annotations edit dialog-->
+    <string name="title_edit_annotation">Anmerkungen bearbeiten</string>
+    <string name="title_add_annotation">Anmerkungen hinzufügen</string>
+    <string name="label_annotation_label">Beschriftung:</string>
+    <string name="cb_annotation_segno">Segno</string>
+    <string name="cb_annotation_coda">Coda</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Abbruch</string>
+    <!-- aboutdialog -->
+    <string name="title_about_dialog">Über SongEasy</string>
+    <!-- measure edit dialog-->
+    <string name="title_edit_measure">Takt Eigenschaften</string>
+    <string name="title_add_measure">Takte hinzufügen</string>
+    <string name="label_measure_count">Anzahl:</string>
+    <string name="label_measure_newline">Neue Zeile danach</string>
+    <string name="label_measure_new_song_time">Taktart:</string>
+    <string name="label_measure_new_song_systems">Song Layout:</string>
+    <string name="label_measure_new_song_key">Tonart:</string>
+    <string name="label_measure_layout">Layout:</string>
+    <string name="cb_measure_repeat_start">Wiederholung Anfang</string>
+    <string name="cb_measure_repeat_stop">Wiederholung Ende</string>
+    <string name="cb_measure_repeat_ending">Ende</string>
+    <string name="cb_measure_page_break">Neue Seite danach</string>
+    <!-- file load error dialog -->
+    <string name="title_file_load_error">Fehler Datei laden!</string>
+    <string name="error_file_not_readable">Datei nicht lesbar!</string>
+    <string name="error_file_not_found">Datei nicht gefunden!</string>
+	<!-- file save error dialog -->
+	<string name="title_file_save_error">Fehler Datei speichern!</string>
+    <string name="error_file_not_writeable">Datei nicht schreibbar!</string>
+    <string name="error_file_not_saved">Datei wurde nicht gesichert!</string>    
+    <string-array name="spinner_keys">
+        <item>A dur</item>
+        <item>A moll</item>
+        <item>Ais moll</item>
+        <item>As dur</item>
+        <item>As moll</item>
+        <item>B dur</item>
+        <item>B moll</item>
+        <item>Bes dur</item>
+        <item>Bes moll</item>
+        <item>C dur</item>
+        <item>C moll</item>
+        <item>Cis dur</item>
+        <item>Cis moll</item>
+        <item>Ces dur</item>
+        <item>D dur</item>
+        <item>D moll</item>
+        <item>Dis moll</item>
+        <item>Des dur</item>
+        <item>E dur</item>
+        <item>E moll</item>
+        <item>Es dur</item>
+        <item>Es moll</item>
+        <item>F dur</item>
+        <item>F moll</item>
+        <item>Fis dur</item>
+        <item>Fis moll</item>
+        <item>G dur</item>
+        <item>G moll</item>
+        <item>Gis moll</item>
+        <item>Ges dur</item>
+    </string-array>
+    <!-- purchase dialog -->
+    <string name="title_purchase">Verfügbare Optionen auswählen</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="option_pdf_export">PDF Export</string>
+    <!-- file load activity -->
+    <string name="prg_bar_loading_title">Laden</string>
+    <!-- file export activity -->
+    <string name="prg_bar_exporting_title">Exportieren</string>
+    <!-- file save activity-->
+    <string name="title_file_save">Datei speichern</string>
+    <string name="error_no_files_found">Keine Dateien gefunden!</string>
+    <string name="title_save_file_select">Datei speichern</string>
+    <string name="title_save_folder_create">Ordner erstellen</string>
+    <string name="label_create_folder_name">Ordnername</string>
+    <string name="label_enter_file_name">Dateinamen eingeben</string>
+    <string name="opt_menu_save_file">Datei speichern</string>
+    <string name="opt_menu_export_file">Datei Exportieren</string>
+    <string name="opt_menu_save_create_folder">Ordner anlegen</string>
+    <string name="prg_bar_saving_title">Speichern</string>
+    <!-- file new activity-->
+    <string name="title_new_song">Eigenschaften neuer Song</string>
+    <string name="label_new_song_name">Name:</string>
+    <string name="hint_new_song_name">Name des Songs</string>
+    <string name="label_new_song_composer_name">Komponist:</string>
+    <string name="hint_new_song_composer_name">Name des Komponisten</string>
+    <string name="label_new_song_key">Tonart:</string>
+    <string name="label_new_song_time">Taktart:</string>
+    <string name="label_new_song_systems">Song Layout:</string>
+    <string name="new_song_default_name">NeuerSong</string>
+
+    <string-array name="spinner_systems">
+        <item>1 Stimme</item>
+        <item>Piano</item>
+        <item>Stimme + Piano</item>
+        <item>Piano + Bass</item>
+    </string-array>
+</resources>

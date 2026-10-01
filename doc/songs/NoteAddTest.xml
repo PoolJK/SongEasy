@@ -1,0 +1,48 @@
+<song version="1.0.1" numberOfMeasures="2">
+   <textBlocks/>
+   <measures>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="0" systemNumber="1">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes>
+            <note length="QUARTER" isDotted="false" staffNumber="0" timePosition="6" accidental="NONE" tie="NONE" name="D" midiPitch="0" octave="5" voice="0"/>
+         </notes>
+         <rests/>
+         <attribute>
+            <measureAttribute>FIRST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="0" systemNumber="0">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>LAST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+   </measures>
+   <titleblock>
+      <composer>Joerg Krein</composer>
+      <editDate>21.12.2013</editDate>
+      <name>NoteAddTest</name>
+   </titleblock>
+</song>

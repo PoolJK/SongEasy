@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <!-- language independent strings -->
+    <string name="app_name" translatable="false">SongEasy</string>
+
+    <string-array name="pref_storing_locations_values" translatable="false">
+        <item>sdcard</item>
+        <item>internal</item>
+    </string-array>
+
+    <string name="pref_key_composer" translatable="false">PREF_COMPOSER</string>
+    <string name="pref_key_update_date" translatable="false">PREF_UPDATE_DATE</string>
+    <string name="pref_key_load_on_start" translatable="false">PREF_LOAD_ON_START</string>
+    <string name="pref_key_last_storage_location" translatable="false">PREF_LAST_STORAGE_LOCATION</string>
+    <!-- edit drawer list item description -->
+    <string name="edit_drawer_list_item_icon" translatable="false">Item Icon</string>
+    <string name="edit_drawer_child_item_icon" translatable="false">Child Item Icon</string>
+    <string name="edit_drawer_child_indicator" translatable="false">Child Indicator Icon </string>
+    <!-- language specific strings -->
+    <!-- main activity -->
+    <string name="error_play_not_found">In-app billing service is unavailable, please upgrade Android Market/Play to version >= 3.9.16</string>
+    <string name="error_licences_not_found">Licences not found</string>
+    <string name="error_option_not_purchased">Option not available. Please purchase in Unlock menue</string>
+    <!-- options menu -->
+    <string name="menu_settings">Settings</string>
+    <string name="opt_menu_load_song">Load Song</string>
+    <string name="opt_menu_save_song">Save Song</string>
+    <string name="opt_menu_save_quick">Save Song</string>
+    <string name="opt_menu_file">File</string>
+    <string name="opt_menu_settings">Settings</string>
+    <string name="opt_menu_settings_app">App</string>
+    <string name="opt_menu_settings_song">Song</string>
+    <string name="opt_menu_new_song">New Song</string>
+    <string name="opt_menu_mode_edit">Edit</string>
+    <string name="opt_menu_mode_play">Play</string>
+    <string name="opt_menu_mode_view">View</string>
+    <string name="opt_menu_mode">Mode</string>
+    <string name="opt_menu_zoom_full">Full</string>
+    <string name="opt_menu_export_image">Export as Image</string>
+    <string name="opt_menu_export_pdf">Export as PDF</string>
+    <string name="opt_menu_social">Band</string>
+    <string name="opt_menu_help">Help</string>
+    <string name="opt_menu_purchase">Unlock options</string>
+    <string name="opt_menu_about">About</string>
+    <string name="error_no_sd_card">No SD Card!</string>
+    <string name="error_no_file_properties">Please enter all properties!</string>
+    <string name="error_no_song_to_export">Nothing to export!</string>
+    <!-- preferences activity -->
+    <string name="pref_cat_general">General</string>
+    <string name="pref_title_location">Location</string>
+
+    <string-array name="pref_storing_locations">
+        <item>SD Card</item>
+        <item>Internal</item>
+    </string-array>
+
+    <string name="pref_cat_storage">Load/Save</string>
+
+    <string name="pref_sw_title_load_on_startup">Load last file on start</string>
+    <string name="pref_sw_sum_load_on_startup_off">Do not load last file on startup</string>
+    <string name="pref_sw_sum_load_on_startup_on">Load file on startup</string>
+    <string name="pref_name_composer">Composer</string>
+    <string name="pref_dlg_enter_composer">Enter Composer Name</string>
+    <string name="pref_title_refresh_date">Refresh date on save</string>
+    <string name="pref_sw_sum_refresh_date_off">Do not refresh date on save</string>
+    <string name="pref_sw_sum_refresh_date_on">Refresh date on save</string>
+    <!-- note edit dialog -->
+    <string name="title_edit_notes">Note properties</string>
+    <string name="label_note_length">Length</string>
+    <string name="rd_btn_note_dotted">Dotted</string>
+    <string name="cb_note_tie_start">Tie start</string>
+    <string name="cb_note_beam_start">Beam start</string>
+    <string name="cb_note_beam_continue">Beam continue</string>
+    <string name="cb_note_beam_stop">Beam stop</string>
+    <string name="label_spinner_note_accidental">Accidental</string>
+	<string name="err_note_too_long">Beams only for notes shorter than quarter!</string>
+    <string-array name="spinner_accidentals">
+        <item>none</item>
+        <item>double b</item>
+        <item>b</item>
+        <item>natural</item>
+        <item>sharp</item>
+        <item>double sharp</item>
+    </string-array>
+    <!-- rest edit dialog -->
+    <string name="title_edit_rests">Rest properties</string>
+    <!-- chords edit dialog -->
+    <string name="title_add_chord">Add Chord</string>
+    <string name="title_edit_chord">Edit Chord</string>
+    <string name="label_picker_chord_root">Root</string>
+    <string name="label_picker_chord_accidental">Accidental</string>
+    <string name="label_picker_chord_kind">Kind</string>
+    <string name="label_picker_chord_bass">Bass</string>
+    <!-- lyrics edit dialog -->
+    <string name="title_edit_lyrics">Edit Lyrics</string>
+    <string name="title_add_lyrics">Enter Lyrics</string>
+    <string name="label_lyric_text_size">Size</string>
+    <string name="rd_btn_lyric_bold">Bold</string>
+    <string name="rd_btn_lyric_cursive">Cursive</string>
+    <string name="cb_lyric_second_line">Second line</string>
+    <!-- textblock edit dialog -->
+    <string name="title_edit_textblock">Edit Textblock</string>
+    <string name="title_add_textblock">Add Textblock</string>
+    <!-- annotations edit dialog -->
+    <string name="title_add_annotation">Enter Annotation</string>
+    <string name="title_edit_annotation">Edit Annotation</string>
+    <string name="label_annotation_label">Label:</string>
+    <string name="cb_annotation_segno">Segno</string>
+    <string name="cb_annotation_coda">Coda</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Cancel</string>
+    <!-- aboutdialog -->
+    <string name="title_about_dialog">About SongEasy</string>
+    <!-- measure edit dialog -->
+    <string name="title_edit_measure">Measure Properites</string>
+    <string name="title_add_measure">Add New Measure</string>
+    <string name="label_measure_count">Count:</string>
+    <string name="label_measure_newline">Begin new line after</string>
+    <string name="label_measure_new_song_time">Time Signature:</string>
+    <string name="label_measure_new_song_systems">Song Layout:</string>
+    <string name="label_measure_new_song_key">Key:</string>
+    <string name="label_measure_layout">Layout:</string>
+    <string name="cb_measure_repeat_start">Repeat Start</string>
+    <string name="cb_measure_repeat_stop">Repeat End</string>
+    <string name="cb_measure_repeat_ending">Ending</string>
+    <string name="cb_measure_page_break">New page after</string>
+	<!-- file load error dialog -->
+	<string name="title_file_load_error">File load error!</string>
+    <string name="error_file_not_readable">File not readable!</string>
+    <string name="error_file_not_found">File not found!</string>
+	<!-- file save error dialog -->
+	<string name="title_file_save_error">File save error!</string>
+    <string name="error_file_not_writeable">File not writeable!</string>
+    <string name="error_file_not_saved">File could not be saved!</string>
+      
+    <string-array name="spinner_keys">
+        <item>A major</item>
+        <item>A minor</item>
+        <item>A-sharp minor</item>
+        <item>A-flat major</item>
+        <item>A-flat minor</item>
+        <item>B major</item>
+        <item>B minor</item>
+        <item>B-flat major</item>
+        <item>B-flat minor</item>
+        <item>C major</item>
+        <item>C minor</item>
+        <item>C-sharp major</item>
+        <item>C-sharp minor</item>
+        <item>C-flat major</item>
+        <item>D major</item>
+        <item>D minor</item>
+        <item>D-sharp minor</item>
+        <item>D-flat major</item>
+        <item>E major</item>
+        <item>E minor</item>
+        <item>E-flat major</item>
+        <item>E-flat minor</item>
+        <item>F major</item>
+        <item>F minor</item>
+        <item>F-sharp major</item>
+        <item>F-sharp minor</item>
+        <item>G major</item>
+        <item>G minor</item>
+        <item>G-sharp minor</item>
+        <item>G-flat major</item>
+    </string-array>
+    <!-- purchase dialog -->
+    <string name="title_purchase">Select available options</string>
+    <string name="action_settings">Settings</string>
+    <string name="option_pdf_export">PDF Export</string>
+    <!-- file load activity -->
+    <string name="prg_bar_loading_title">Loading</string>
+    <!-- file export activity -->
+    <string name="prg_bar_exporting_title">Exporting</string>
+    <!-- file save activity -->
+    <string name="title_file_save">Save File</string>
+    <string name="error_no_files_found">No files found!</string>
+    <string name="title_save_file_select">Save File</string>
+    <string name="title_save_folder_create">Create Folder</string>
+    <string name="label_create_folder_name">Folder name</string>
+    <string name="label_enter_file_name">Enter file name</string>
+    <string name="opt_menu_save_file">Save File</string>
+    <string name="opt_menu_export_file">Export File</string>
+    <string name="opt_menu_save_create_folder">Create Folder</string>
+    <string name="prg_bar_saving_title">Saving</string>
+    <!-- file new activity -->
+    <string name="title_new_song">New song properties</string>
+    <string name="label_new_song_name">Name:</string>
+    <string name="hint_new_song_name">song name</string>
+    <string name="label_new_song_composer_name">Composer:</string>
+    <string name="hint_new_song_composer_name">composer name</string>
+    <string name="label_new_song_key">Key:</string>
+    <string name="label_new_song_time">Time Signature:</string>
+    <string name="label_new_song_systems">Song Layout:</string>
+    <string name="new_song_default_name">NewSong</string>
+    <string-array name="spinner_systems">
+        <item>1 Voice</item>
+        <item>Piano</item>
+        <item>Voice + Piano</item>
+        <item>Piano + Bass</item>
+    </string-array>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- android:background="#DDDEE3" -->
+    <!-- android:background="@android:color/darker_gray" -->
+
+    <ToggleButton
+        android:id="@+id/toggleButtonSelectElement"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/btn_toggle_select"
+        android:textOff=""
+        android:textOn="" />
+
+</merge>

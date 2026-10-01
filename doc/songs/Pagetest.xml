@@ -1,0 +1,708 @@
+<song version="1.0.0" numberOfMeasures="38">
+   <textBlocks/>
+   <measures>
+      <measure>
+         <annotations>
+            <annotationElement class="de.songeasy.android.score.Lyric" text="Anfang der ersten Seite" relativePosition="0.14906102913855945" lineNumber="0" staffNumber="0"/>
+         </annotations>
+         <directions/>
+         <staves>
+            <staff octaveShift="0" systemNumber="1">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>FIRST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>LAST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>FIRST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>LAST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>FIRST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>LAST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>FIRST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>LAST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>FIRST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>LAST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>FIRST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations>
+            <annotationElement class="de.songeasy.android.score.Lyric" text="Ende der ersten Seite" relativePosition="0.34010989309012235" lineNumber="0" staffNumber="0"/>
+         </annotations>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>LAST_IN_LINE</measureAttribute>
+            <measureAttribute>PAGE_BREAK</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations>
+            <annotationElement class="de.songeasy.android.score.Lyric" text="Anfang der zweiten Seite" relativePosition="0.16760563231270076" lineNumber="0" staffNumber="0"/>
+         </annotations>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>FIRST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>LAST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>FIRST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>LAST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>FIRST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>LAST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>FIRST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>LAST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>FIRST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>LAST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>FIRST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>LAST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>FIRST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations>
+            <annotationElement class="de.songeasy.android.score.Lyric" text="Ende der zweiten Seite" relativePosition="0.28846153846153844" lineNumber="0" staffNumber="0"/>
+         </annotations>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>LAST_IN_LINE</measureAttribute>
+            <measureAttribute>PAGE_BREAK</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations>
+            <annotationElement class="de.songeasy.android.score.Lyric" text="Anfang der dritten Seite" relativePosition="0.200469482077959" lineNumber="0" staffNumber="0"/>
+         </annotations>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>FIRST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>LAST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>FIRST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>LAST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>FIRST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>LAST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>FIRST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>LAST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>FIRST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>LAST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>FIRST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations>
+            <annotationElement class="de.songeasy.android.score.Lyric" text="Ende der dritten Seite" relativePosition="0.3472527487428634" lineNumber="0" staffNumber="0"/>
+         </annotations>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <notes/>
+         <rests/>
+         <attribute>
+            <measureAttribute>LAST_IN_LINE</measureAttribute>
+         </attribute>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+   </measures>
+   <titleblock>
+      <composer>Jörg Krein</composer>
+      <editDate>23.05.2014</editDate>
+      <name>Pagetest</name>
+   </titleblock>
+</song>

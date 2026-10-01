@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- android:background="#DDDEE3" -->
+    <!-- android:background="@android:color/darker_gray" -->
+
+    <ImageButton
+        android:id="@+id/imageButtonDeleteElement"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/ic_content_remove" />
+
+    <ImageButton
+        android:id="@+id/imageButtonEditElement"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@id/imageButtonDeleteElement"
+        android:src="@drawable/btn_image_options" />
+
+</merge>

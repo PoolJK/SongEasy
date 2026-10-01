@@ -1,0 +1,44 @@
+<song version="1.0.1" numberOfMeasures="2">
+   <textBlocks/>
+   <measures>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="0" systemNumber="1">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <attribute/>
+         <notes/>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="0" systemNumber="0">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <attribute>
+            <measureAttribute>LINE_BREAK</measureAttribute>
+         </attribute>
+         <notes/>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+   </measures>
+   <titleblock>
+      <composer></composer>
+      <editDate>21.12.2013</editDate>
+      <name>NewSong2</name>
+   </titleblock>
+</song>

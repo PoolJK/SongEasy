@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Button
+        android:id="@+id/imageButtonUp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/btn_toggle_move_up" />
+
+    <Button
+        android:id="@+id/imageButtonLeft"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/btn_toggle_move_left"
+        android:layout_below="@+id/imageButtonUp"/>
+
+    <Button
+        android:id="@+id/imageButtonRight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/imageButtonLeft"
+        android:background="@drawable/btn_toggle_move_right"
+        android:layout_below="@+id/imageButtonUp"/>
+
+    <Button
+        android:id="@+id/imageButtonDown"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_toggle_move_down"
+        android:layout_below="@+id/imageButtonLeft"/>
+
+</merge>
+
+

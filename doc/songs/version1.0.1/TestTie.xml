@@ -1,0 +1,202 @@
+<song version="1.0.1" numberOfMeasures="6">
+   <textBlocks/>
+   <measures>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="0" systemNumber="1">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <attribute/>
+         <notes>
+            <note length="QUARTER" isDotted="false" staffNumber="0" timePosition="5" accidental="NONE" name="B" midiPitch="0" octave="4" voice="0">
+               <beams/>
+               <ties>
+                  <tieType>START</tieType>
+               </ties>
+            </note>
+            <note length="QUARTER" isDotted="false" staffNumber="0" timePosition="24" accidental="NONE" name="B" midiPitch="2" octave="4" voice="0">
+               <beams/>
+               <ties>
+                  <tieType>STOP</tieType>
+               </ties>
+            </note>
+            <note length="QUARTER" isDotted="false" staffNumber="0" timePosition="41" accidental="SHARP" name="G" midiPitch="69" octave="4" voice="0">
+               <beams/>
+               <ties>
+                  <tieType>START</tieType>
+                  <tieType>START</tieType>
+               </ties>
+            </note>
+            <note length="EIGHTH" isDotted="false" staffNumber="0" timePosition="59" accidental="SHARP" name="G" midiPitch="69" octave="4" voice="0">
+               <beams/>
+               <ties>
+                  <tieType>STOP</tieType>
+                  <tieType>START</tieType>
+                  <tieType>STOP</tieType>
+                  <tieType>START</tieType>
+               </ties>
+            </note>
+         </notes>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <attribute>
+            <measureAttribute>LINE_BREAK</measureAttribute>
+         </attribute>
+         <notes>
+            <note length="EIGHTH" isDotted="false" staffNumber="0" timePosition="6" accidental="SHARP" name="G" midiPitch="67" octave="4" voice="0">
+               <beams/>
+               <ties>
+                  <tieType>STOP</tieType>
+                  <tieType>START</tieType>
+                  <tieType>STOP</tieType>
+                  <tieType>START</tieType>
+               </ties>
+            </note>
+            <note length="QUARTER" isDotted="true" staffNumber="0" timePosition="17" accidental="SHARP" name="G" midiPitch="66" octave="4" voice="0">
+               <beams/>
+               <ties>
+                  <tieType>STOP</tieType>
+               </ties>
+            </note>
+            <note length="QUARTER" isDotted="false" staffNumber="0" timePosition="35" accidental="SHARP" name="C" midiPitch="72" octave="5" voice="0">
+               <beams/>
+               <ties>
+                  <tieType>START</tieType>
+                  <tieType>START</tieType>
+               </ties>
+            </note>
+            <note length="QUARTER" isDotted="false" staffNumber="0" timePosition="54" accidental="SHARP" name="C" midiPitch="72" octave="5" voice="0">
+               <beams/>
+               <ties>
+                  <tieType>STOP</tieType>
+                  <tieType>START</tieType>
+               </ties>
+            </note>
+         </notes>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <attribute/>
+         <notes>
+            <note length="QUARTER" isDotted="false" staffNumber="0" timePosition="3" accidental="NONE" name="C" midiPitch="74" octave="5" voice="0">
+               <beams/>
+               <ties>
+                  <tieType>STOP</tieType>
+               </ties>
+            </note>
+            <note length="QUARTER" isDotted="false" staffNumber="0" timePosition="33" accidental="FLAT" name="F" midiPitch="65" octave="4" voice="0">
+               <beams/>
+               <ties>
+                  <tieType>START</tieType>
+               </ties>
+            </note>
+         </notes>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <attribute>
+            <measureAttribute>LINE_BREAK</measureAttribute>
+         </attribute>
+         <notes>
+            <note length="QUARTER" isDotted="false" staffNumber="0" timePosition="14" accidental="FLAT" name="F" midiPitch="65" octave="4" voice="0">
+               <beams/>
+               <ties>
+                  <tieType>STOP</tieType>
+               </ties>
+            </note>
+            <note length="HALF" isDotted="false" staffNumber="0" timePosition="47" accidental="NONE" name="C" midiPitch="72" octave="5" voice="0">
+               <beams/>
+               <ties>
+                  <tieType>START</tieType>
+               </ties>
+            </note>
+         </notes>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <attribute/>
+         <notes>
+            <note length="HALF" isDotted="false" staffNumber="0" timePosition="9" accidental="NONE" name="C" midiPitch="72" octave="5" voice="0">
+               <beams/>
+               <ties/>
+            </note>
+         </notes>
+         <repeat>START</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="CMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <attribute>
+            <measureAttribute>LINE_BREAK</measureAttribute>
+         </attribute>
+         <notes/>
+         <repeat>STOP</repeat>
+      </measure>
+   </measures>
+   <titleblock>
+      <composer>Jörg Krein</composer>
+      <editDate>18.08.2014</editDate>
+      <name>TestTie</name>
+   </titleblock>
+</song>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (C) 2015 Joerg Krein
+  -->
+<!-- see http://stackoverflow.com/questions/5735423/alertdialog-style-buttons-for-an-activity/18321501#18321501 -->
+<!-- the dismissive action is always on the left: http://developer.android.com/design/building-blocks/dialogs.html -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="?android:attr/buttonBarStyle"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/button_cancel"
+        style="?android:attr/buttonBarButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/btn_cancel" />
+
+    <Button
+        android:id="@+id/button_ok"
+        style="?android:attr/buttonBarButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/btn_ok" />
+
+</LinearLayout>

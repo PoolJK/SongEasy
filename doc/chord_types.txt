@@ -1,0 +1,88 @@
+Type picker:
+			/** major third, perfect fifth */
+			MAJOR,
+			/** minor third, perfect fifth */
+-			MINOR, 
+			/** major third, augmented fifth */
+#5			AUGMENTED,
+			/** minor third, diminished fifth */
+°			DIMINISHED,
+			/** major triad, minor seventh */
+7			DOMINANT,
+			/** major triad, major seventh */
+maj7		MAJORSEVENTH,
+			/** minor triad, minor seventh */
+-7			MINORSEVENTH, 
+			/** diminished triad, diminished seventh */
+°7			DIMINISHEDSEVENTH,
+			/** augmented triad, minor seventh */
+#5/7		AUGMENTEDSEVENTH,
+			/** diminished triad, minor seventh */
+-7(b5)	HALFDIMINISHED,
+			/** minor triad, major seventh */
+-maj7		MAJORMINOR,
+			// Sixths
+6			/** major triad, added sixth */
+			MAJORSIXTH,
+			/** minor triad, added sixth */
+-6			MINORSIXTH,
+			// Ninths:
+			/** dominant-seventh, major ninth */
+9			DOMINANTNINTH, 
+			/** major-seventh, major ninth */
+maj79		MAJORNINTH,
+			/** minor-seventh, major ninth */
+b9			MINORNINTH,
+			// 11ths u(sually as the basis for alteration):
+			/** dominant-ninth, perfect 11th */
+11			DOMINANT11TH,
+			/** major-ninth, perfect 11th */
+maj11		MAJOR11TH,
+			/** minor-ninth, perfect 11th */
+m11		MINOR11TH,
+			// 13ths (usually as the basis for alteration):
+			/** dominant-11th, major 13th */
+13			DOMINANT13TH,
+			/** major-11th, major 13th */
+maj13		MAJOR13TH,
+			/** minor-11th, major 13th */
+m13		MINOR13TH,
+			// Suspended:
+			/** major second, perfect fifth */
+sus2		SUSPENDEDSECOND,
+			/** perfect fourth, perfect fifth */
+sus4		SUSPENDEDFOURTH,
+			// Functional sixths:
+			NEAPOLITAN, ITALIAN, FRENCH, GERMAN,
+			// Other:
+			/** pedal-point bass */
+			PEDAL,
+			/** perfect fifth */
+			POWER, TRISTAN
+
+
+    <string-array name="chord_types">
+        <item></item>
+        <item>m</item>
+        <item>#5</item>
+        <item>°</item>
+        <item>7</item>
+        <item>M7</item>
+        <item>m7</item>
+        <item>°7</item>
+        <item>7(#5)</item>
+        <item>m7(b5)</item>
+        <item>mM7</item>
+        <item>6</item>
+        <item>m6</item>
+        <item>M79</item>
+        <item>b9</item>
+        <item>11</item>
+        <item>M11</item>
+        <item>m11</item>
+        <item>13</item>
+        <item>M13</item>
+        <item>m13</item>
+        <item>sus2</item>
+        <item>sus4</item>
+    </string-array>

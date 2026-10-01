@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory
+        android:enabled="true"
+        android:title="@string/pref_cat_general" >
+        <EditTextPreference
+            android:dialogTitle="@string/pref_dlg_enter_composer"
+            android:key="@string/pref_key_composer"
+            android:title="@string/pref_name_composer" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:enabled="true"
+        android:title="@string/pref_cat_storage" >
+        <CheckBoxPreference
+            android:disableDependentsState="false"
+            android:enabled="true"
+            android:key="@string/pref_key_load_on_start"
+            android:summaryOff="@string/pref_sw_sum_load_on_startup_off"
+            android:summaryOn="@string/pref_sw_sum_load_on_startup_on"
+            android:title="@string/pref_sw_title_load_on_startup" />
+        <CheckBoxPreference
+            android:disableDependentsState="false"
+            android:enabled="true"
+            android:key="@string/pref_key_update_date"
+            android:summaryOff="@string/pref_sw_sum_refresh_date_off"
+            android:summaryOn="@string/pref_sw_sum_refresh_date_on"
+            android:title="@string/pref_title_refresh_date" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,383 @@
+<song version="1.0.1" numberOfMeasures="20">
+   <textBlocks/>
+   <measures>
+      <measure>
+         <annotations>
+            <annotationElement class="de.songeasy.android.score.Chord" text="C /E" relativePosition="0.34187934811285364" bass="E" bassAccidental="" kind="MAJOR" root="C" rootAccidental=""/>
+            <annotationElement class="de.songeasy.android.score.Chord" text="G " relativePosition="0.7342227370739675" bass="" bassAccidental="" kind="MAJOR" root="G" rootAccidental=""/>
+         </annotations>
+         <directions/>
+         <staves>
+            <staff octaveShift="0" systemNumber="1">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="GMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <attribute/>
+         <notes/>
+         <repeat>START</repeat>
+      </measure>
+      <measure>
+         <annotations>
+            <annotationElement class="de.songeasy.android.score.Chord" text="C /E" relativePosition="0.16434540389972144" bass="E" bassAccidental="" kind="MAJOR" root="C" rootAccidental=""/>
+            <annotationElement class="de.songeasy.android.score.Chord" text="G " relativePosition="0.6685236768802229" bass="" bassAccidental="" kind="MAJOR" root="G" rootAccidental=""/>
+         </annotations>
+         <directions/>
+         <staves>
+            <staff octaveShift="0" systemNumber="0">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="GMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <attribute>
+            <measureAttribute>LINE_BREAK</measureAttribute>
+         </attribute>
+         <notes/>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations>
+            <annotationElement class="de.songeasy.android.score.Chord" text="C /E" relativePosition="0.3235498832456612" bass="E" bassAccidental="" kind="MAJOR" root="C" rootAccidental=""/>
+            <annotationElement class="de.songeasy.android.score.Chord" text="G " relativePosition="0.7388631083036659" bass="" bassAccidental="" kind="MAJOR" root="G" rootAccidental=""/>
+         </annotations>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="GMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <attribute/>
+         <notes/>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations>
+            <annotationElement class="de.songeasy.android.score.Chord" text="F " relativePosition="0.1977715877437326" bass="" bassAccidental="" kind="MAJOR" root="F" rootAccidental=""/>
+         </annotations>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="GMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <attribute>
+            <measureAttribute>LINE_BREAK</measureAttribute>
+         </attribute>
+         <notes/>
+         <repeat>STOP</repeat>
+      </measure>
+      <measure>
+         <annotations>
+            <annotationElement class="de.songeasy.android.score.Chord" text="Dm" relativePosition="0.35371229623870065" bass="" bassAccidental="" kind="MINOR" root="D" rootAccidental=""/>
+         </annotations>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="GMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <attribute/>
+         <notes/>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations>
+            <annotationElement class="de.songeasy.android.score.Chord" text="F " relativePosition="0.20612813370473537" bass="" bassAccidental="" kind="MAJOR" root="F" rootAccidental=""/>
+         </annotations>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="GMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <attribute>
+            <measureAttribute>LINE_BREAK</measureAttribute>
+         </attribute>
+         <notes/>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations>
+            <annotationElement class="de.songeasy.android.score.Chord" text="G " relativePosition="0.3792343380020417" bass="" bassAccidental="" kind="MAJOR" root="G" rootAccidental=""/>
+         </annotations>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="GMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <attribute/>
+         <notes/>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="GMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <attribute>
+            <measureAttribute>LINE_BREAK</measureAttribute>
+         </attribute>
+         <notes/>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations>
+            <annotationElement class="de.songeasy.android.score.Chord" text="Am" relativePosition="0.3433874709976798" bass="" bassAccidental="" kind="MINOR" root="A" rootAccidental=""/>
+         </annotations>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="GMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <attribute/>
+         <notes/>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations>
+            <annotationElement class="de.songeasy.android.score.Chord" text="G /B" relativePosition="0.25348189415041783" bass="B" bassAccidental="" kind="MAJOR" root="G" rootAccidental=""/>
+         </annotations>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="GMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <attribute>
+            <measureAttribute>LINE_BREAK</measureAttribute>
+         </attribute>
+         <notes/>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations>
+            <annotationElement class="de.songeasy.android.score.Chord" text="C " relativePosition="0.37587006960556846" bass="" bassAccidental="" kind="MAJOR" root="C" rootAccidental=""/>
+         </annotations>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="GMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <attribute/>
+         <notes/>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="GMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <attribute>
+            <measureAttribute>LINE_BREAK</measureAttribute>
+         </attribute>
+         <notes/>
+         <repeat>STOP</repeat>
+      </measure>
+      <measure>
+         <annotations>
+            <annotationElement class="de.songeasy.android.score.Label" text="Variation" relativePosition="0.06423689906988167"/>
+            <annotationElement class="de.songeasy.android.score.Chord" text="Em7" relativePosition="0.3619489559164733" bass="" bassAccidental="" kind="MINORSEVENTH" root="E" rootAccidental=""/>
+         </annotations>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="GMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <attribute/>
+         <notes/>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations>
+            <annotationElement class="de.songeasy.android.score.Chord" text="F " relativePosition="0.19338422391857507" bass="" bassAccidental="" kind="MAJOR" root="F" rootAccidental=""/>
+         </annotations>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="GMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <attribute>
+            <measureAttribute>LINE_BREAK</measureAttribute>
+         </attribute>
+         <notes/>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations>
+            <annotationElement class="de.songeasy.android.score.Chord" text="G " relativePosition="0.39191343889047725" bass="" bassAccidental="" kind="MAJOR" root="G" rootAccidental=""/>
+         </annotations>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="GMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <attribute/>
+         <notes/>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="GMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <attribute>
+            <measureAttribute>LINE_BREAK</measureAttribute>
+         </attribute>
+         <notes/>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations>
+            <annotationElement class="de.songeasy.android.score.Chord" text="Am7" relativePosition="0.34646924680145563" bass="" bassAccidental="" kind="MINORSEVENTH" root="A" rootAccidental=""/>
+         </annotations>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="795">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="GMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <attribute/>
+         <notes/>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations>
+            <annotationElement class="de.songeasy.android.score.Chord" text="G /B" relativePosition="0.17343324176175393" bass="B" bassAccidental="" kind="MAJOR" root="G" rootAccidental=""/>
+         </annotations>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="795">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="GMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <attribute>
+            <measureAttribute>LINE_BREAK</measureAttribute>
+         </attribute>
+         <notes/>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations>
+            <annotationElement class="de.songeasy.android.score.Chord" text="C " relativePosition="0.3665893271461717" bass="" bassAccidental="" kind="MAJOR" root="C" rootAccidental=""/>
+         </annotations>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="GMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <attribute/>
+         <notes/>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+      <measure>
+         <annotations/>
+         <directions/>
+         <staves>
+            <staff octaveShift="40" systemNumber="780">
+               <clefSign clefName="VIOLIN"/>
+               <keySignature key="GMAJOR"/>
+               <name>Voice</name>
+               <timeSignature numerator="4" denominator="4"/>
+            </staff>
+         </staves>
+         <rests/>
+         <attribute/>
+         <notes/>
+         <repeat>NO_REPEAT</repeat>
+      </measure>
+   </measures>
+   <titleblock>
+      <editDate>21.12.2013</editDate>
+      <name>Idee#488</name>
+   </titleblock>
+</song>

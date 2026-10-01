@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <EditText
+        android:id="@+id/editTextLyrics"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:ems="10"
+        android:inputType="textAutoCorrect">
+
+        <requestFocus />
+    </EditText>
+
+    <CheckBox
+        android:id="@+id/checkBoxLyricsLine"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editTextLyrics"
+        android:layout_centerHorizontal="true"
+        android:text="@string/cb_lyric_second_line" />
+
+    <View
+        android:id="@+id/horz_separator_line"
+        android:layout_marginTop="5dp"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/checkBoxLyricsLine"
+        android:layout_marginBottom="0dp"
+        android:background="?android:attr/dividerHorizontal" />
+
+    <include layout="@layout/lay_dlg_two_button"
+        android:layout_below="@id/horz_separator_line"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+
+</RelativeLayout>

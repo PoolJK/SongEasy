@@ -1,0 +1,153 @@
+<song>
+	<measures>
+		<measure>
+			<chords>
+				<chord accidental="" add1="7" add2="" base="B" gender="m" modifier1="" modifier2="" name="Bm7" relativePosition="0.5" />
+			</chords>
+			<notes>
+				<note name="C" octave="4" accidental="NONE" length="QUARTER" isDotted="false" 
+				    midiPitch="60"	staffNumber="0" timePosition="10" voice="0" />
+				<note name="C" octave="4" accidental="FLAT" length="QUARTER" isDotted="false" 
+				    midiPitch="61" staffNumber="0" timePosition="35" voice="0" />
+				<note name="D" octave="4" accidental="NONE" length="EIGHTH" isDotted="false" midiPitch="62"
+					staffNumber="0" timePosition="60" voice="0" />
+				<note name="D" octave="4" accidental="FLAT" length="EIGHTH" isDotted="false" midiPitch="63"
+					staffNumber="0" timePosition="72" voice="0" />
+				<note name="E" octave="4" accidental="NONE" length="QUARTER" isDotted="false" midiPitch="64"
+					staffNumber="0" timePosition="85" voice="0" />
+			</notes>
+			<rests />
+			<staves>
+				<staff octaveShift="0" systemNumber="1">
+					<clefSign clefName="VIOLIN" />
+					<keySignature key="CMAJOR" />
+					<name>PianoLeft</name>
+					<timeSignature numerator="4" denominator="4"/>
+				</staff>
+				<staff octaveShift="0" systemNumber="1">
+					<clefSign clefName="BASS" />
+					<keySignature key="CMAJOR" />
+					<name>PianoRight</name>
+					<timeSignature numerator="4" denominator="4"/>
+				</staff>
+			</staves>
+			<attribute>FIRST_IN_LINE</attribute>
+		</measure>
+		<measure>
+			<chords>
+				<chord accidental="" add1="7" add2="" base="B" gender="m" modifier1="" modifier2="" name="Bm7" relativePosition="0.5" />
+			</chords>
+			<notes>
+				<note name="C" octave="3" accidental="SHARP" length="EIGHTH" isDotted="false" midiPitch="48"
+					staffNumber="1" timePosition="10" voice="0" />
+				<note name="D" octave="3" accidental="NONE" length="EIGHTH" isDotted="false" midiPitch="50"
+					staffNumber="1" timePosition="30" voice="0" />
+				<note name="D" octave="3" accidental="FLAT" length="QUARTER" isDotted="false" midiPitch="51"
+					staffNumber="1" timePosition="50" voice="0" />
+				<note name="E" octave="3" accidental="FLAT" length="QUARTER" isDotted="false" midiPitch="52"
+					staffNumber="1" timePosition="70" voice="0" />
+			</notes>
+			<rests />
+			<staves>
+				<staff octaveShift="0" systemNumber="1">
+					<clefSign clefName="VIOLIN" />
+					<keySignature key="CMAJOR" />
+					<name>PianoLeft</name>
+					<timeSignature numerator="4" denominator="4"/>
+				</staff>
+				<staff octaveShift="0" systemNumber="1">
+					<clefSign clefName="BASS" />
+					<keySignature key="CMAJOR" />
+					<name>PianoRight</name>
+					<timeSignature numerator="4" denominator="4"/>
+				</staff>
+			</staves>
+		</measure>
+		<measure>
+			<chords />
+			<notes>
+				<note name="E" octave="4" accidental="NONE" length="SIXTEENTH" isDotted="false" midiPitch="64"
+					staffNumber="0" timePosition="10" voice="0" />
+				<note name="F" octave="4" accidental="NONE" length="SIXTEENTH" isDotted="false" midiPitch="65"
+					staffNumber="0" timePosition="20" voice="0" />
+				<note name="F" octave="4" accidental="FLAT" length="SIXTEENTH" isDotted="false" midiPitch="66"
+					staffNumber="0" timePosition="30" voice="0" />
+				<note name="G" octave="4" accidental="NONE"  length="SIXTEENTH" isDotted="false" midiPitch="67"
+					staffNumber="0" timePosition="40" voice="0" />
+			</notes>
+			<rests />
+			<staves>
+				<staff octaveShift="0" systemNumber="1">
+					<clefSign clefName="VIOLIN" />
+					<keySignature key="CMAJOR" />
+					<name>PianoLeft</name>
+					<timeSignature numerator="4" denominator="4"/>
+				</staff>
+				<staff octaveShift="0" systemNumber="1">
+					<clefSign clefName="BASS" />
+					<keySignature key="CMAJOR" />
+					<name>PianoRight</name>
+					<timeSignature numerator="4" denominator="4"/>
+				</staff>
+			</staves>
+		</measure>
+		<measure>
+			<chords />
+			<notes>
+				<note name="F" octave="3" accidental="NONE" length="SIXTEENTH" isDotted="false" midiPitch="53"
+					staffNumber="1" timePosition="10" voice="0" />
+				<note name="F" octave="3" accidental="FLAT" length="EIGHTH" isDotted="false" midiPitch="54"
+					staffNumber="1" timePosition="20" voice="0" />
+				<note name="G" octave="3" accidental="NONE" length="SIXTEENTH" isDotted="false" midiPitch="55"
+					staffNumber="1" timePosition="40" voice="0" />
+				<note name="G" octave="3" accidental="SHARP"length="EIGHTH" isDotted="false" midiPitch="56"
+					staffNumber="1" timePosition="50" voice="0" />
+			</notes>
+			<rests />
+			<staves>
+				<staff octaveShift="0" systemNumber="1">
+					<clefSign clefName="VIOLIN" />
+					<keySignature key="CMAJOR" />
+					<name>PianoLeft</name>
+					<timeSignature numerator="4" denominator="4"/>
+				</staff>
+				<staff octaveShift="0" systemNumber="1">
+					<clefSign clefName="BASS" />
+					<keySignature key="CMAJOR" />
+					<name>PianoRight</name>
+					<timeSignature numerator="4" denominator="4"/>
+				</staff>
+			</staves>
+		</measure>
+		<measure>
+			<chords />
+			<notes>
+				<note name="G" octave="4" accidental="DOUBLE_SHARP" length="QUARTER" isDotted="false" midiPitch="68"
+					staffNumber="0" timePosition="10" voice="0" />
+				<note name="A" octave="3" accidental="NATURAL" length="QUARTER" isDotted="false" midiPitch="57"
+					staffNumber="1" timePosition="30" voice="0" />
+				<note name="A" octave="4" accidental="NONE" length="QUARTER" isDotted="false" midiPitch="69"
+					staffNumber="0" timePosition="50" voice="0" />
+				<note name="A" octave="3" accidental="DOUBLE_FLAT" length="QUARTER" isDotted="false" midiPitch="58"
+					staffNumber="1" timePosition="70" voice="0" />
+			</notes>
+			<rests />
+			<staves>
+				<staff octaveShift="0" systemNumber="1">
+					<clefSign clefName="VIOLIN" />
+					<keySignature key="CMAJOR" />
+					<name>PianoLeft</name>
+					<timeSignature numerator="4" denominator="4"/>
+				</staff>
+				<staff octaveShift="0" systemNumber="1">
+					<clefSign clefName="BASS" />
+					<keySignature key="CMAJOR" />
+					<name>PianoRight</name>
+					<timeSignature numerator="4" denominator="4"/>
+				</staff>
+			</staves>
+			<attribute>LAST_IN_LINE</attribute>
+		</measure>
+	</measures>
+	<name>SingleRow</name>
+</song>
